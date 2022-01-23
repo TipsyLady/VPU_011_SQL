@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ChangesToDataBase", "..\..\..\Documents\SQL Server Management Studio\ChangesToDataBase\ChangesToDataBase.ssmssqlproj", "{D7107D80-8156-4C5D-9C44-810ED95E9C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251DE9A2-D1C7-4FB3-89CD-F2960936538B}.Default|Default.ActiveCfg = Default
+		{D7107D80-8156-4C5D-9C44-810ED95E9C94}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F60CC2-CE6C-45AD-99C9-769A44EA4040}
+	EndGlobalSection
+EndGlobal
